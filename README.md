@@ -9,7 +9,12 @@ tags:
 - diffusers
 inference: true
 ---
+![](https://media.discordapp.net/attachments/896671880986120225/1081380176300089384/image.png)
 
+## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Anything V4, you can use their service at [https://fantasy.ai/](https://fantasy.ai/?anythingv4)
+Please report any unauthorized commercial use.
+
+-----------------
 Try out my new model! - [Pastel Mix || Stylized Anime Model](https://huggingface.co/andite/pastel-mix). Thanks.
 
 I also uploaded it in CivitAI! https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!
