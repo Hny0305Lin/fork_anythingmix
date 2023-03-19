@@ -10,8 +10,6 @@ tags:
 inference: true
 ---
 
-## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Anything V4, you can use their service at [https://fantasy.ai/](https://fantasy.ai/?anythingv4)
-
 -----------------
 Try out my new model! - [Pastel Mix || Stylized Anime Model](https://huggingface.co/andite/pastel-mix). Thanks.
 
