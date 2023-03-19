@@ -9,7 +9,6 @@ tags:
 - diffusers
 inference: true
 ---
-![](https://media.discordapp.net/attachments/896671880986120225/1081380176300089384/image.png)
 
 ## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Anything V4, you can use their service at [https://fantasy.ai/](https://fantasy.ai/?anythingv4)
 Please report any unauthorized commercial use.
