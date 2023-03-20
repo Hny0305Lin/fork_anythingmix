@@ -15,7 +15,7 @@ Try out my new model! - [Pastel Mix || Stylized Anime Model](https://huggingface
 
 I also uploaded it in CivitAI! https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!
 
-Yes, it's a shameless plug. 7878
+Yes, it's a shameless plug.
 
 Examples:
 
